@@ -5,9 +5,9 @@ import 'antd/dist/antd.css'
 
 // 特性列表
 const specList = [
-    { featureId: 33, title: "颜色", list: ["白色", "红色"] },
-    { featureId: 44, title: "内存", list: ["16G", "32G"] },
-    { featureId: 55, title: "容量", list: ["150ml", "300ml", "450ml"] }
+    { title: "颜色", list: ["白色", "红色"] },
+    { title: "内存", list: ["16G", "32G"] },
+    { title: "容量", list: ["150ml", "300ml", "450ml"] }
 ];
 
 // sku 列表
